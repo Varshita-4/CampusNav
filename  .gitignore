@@ -1,0 +1,12 @@
+# Ignore build folders and executables
+dist/
+build/
+*.exe
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
